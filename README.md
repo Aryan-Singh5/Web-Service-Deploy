@@ -142,7 +142,7 @@ deploy/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Aryan-Singh5/Web-Service-Deploy.git
 cd YOUR_REPO
 ```
 
@@ -177,7 +177,7 @@ App runs on `http://localhost:3000`
 ### Run with Docker Compose
 ```bash
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Aryan-Singh5/Web-Service-Deploy.git
 cd YOUR_REPO
 
 # Create .env file
@@ -209,8 +209,6 @@ docker ps
 6. Configure SSL with Certbot
 7. Point domain to EC2 Elastic IP
 
-Full deployment guide: [See deployment docs](#)
-
 ---
 
 
@@ -234,16 +232,6 @@ Full deployment guide: [See deployment docs](#)
 
 ---
 
-##  Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ##  License
 
 This project is licensed under the ISC License.
@@ -253,7 +241,7 @@ This project is licensed under the ISC License.
 ## Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/Aryan-Singh5)
+- GitHub: [Aryan-Singh5](https://github.com/Aryan-Singh5)
 - Live App: [medionline.life](https://medionline.life)
 
 ---
