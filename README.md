@@ -12,13 +12,13 @@ A full-stack web application for managing customer accounts, transactions, and p
 ![Home Page](screenshots/home.png)
 
 ### Smart Calculator
-![Calculator](screenshots/calculator.png)
+![Structure](screenshots/calculator.png)
 
 ### QR Code Payment
-![QR Payment](screenshots/qr.png)
+![Structure](screenshots/qr.png)
 
 ### Transaction Analysis
-![Analysis](screenshots/analysis.png)
+![Container Build](screenshots/analysis.png)
 
 ---
 
