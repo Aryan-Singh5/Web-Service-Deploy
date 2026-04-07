@@ -253,7 +253,7 @@ This project is licensed under the ISC License.
 ## Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@your-username](https://github.com/Aryan-Singh5)
 - Live App: [medionline.life](https://medionline.life)
 
 ---
